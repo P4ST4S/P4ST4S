@@ -9,7 +9,10 @@
 ╚═╝           ╚═╝ ╚══════╝   ╚═╝         ╚═╝ ╚══════╝
 ```
 
-### 🌃 Fullstack Netrunner | Code Samurai | DevOps Fixer
+<details>
+<summary>🌃 <b>Fullstack Netrunner | Code Samurai | DevOps Fixer</b> - Click to jack in! ⚡</summary>
+
+<br>
 
 > *"In 2077, what makes someone a developer? Getting code done."*
 
@@ -144,3 +147,7 @@ const contactInfo = {
 ![Cyberpunk](https://img.shields.io/badge/-Powered_by_Cyberpunk_2077-FFD700?style=for-the-badge&logo=steam&logoColor=black&labelColor=00F0FF)
 
 **[DISCONNECT]** | Made with ⚡ by [P4ST4S](https://github.com/P4ST4S) | **[JACK OUT]**
+
+</div>
+
+</details>
