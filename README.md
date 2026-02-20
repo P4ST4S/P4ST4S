@@ -1,18 +1,17 @@
 <img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/9b1de1c6-9859-4534-91fd-26286ea85a6e" />
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <p align="center">
-Here you can see about all my activity (even privates !)<br>
+Fullstack dev. Front to back, pixel to packet — all of it.<br>
 <blockquote>
   <span style="font-size:2em; font-family:monospace;">
-    Because i'm working on some cool top-secret stuff (¬‿¬)
+    "The street finds its own uses for things." — and I build them.
   </span>
 </blockquote>
 </p>
 
-
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <table>
   <tr>
