@@ -11,7 +11,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: .github/output/metrics.classic.svg
-          user: spideystreet
+          user: P4ST4S
           token: ${{ secrets.METRICS_TOKEN }}
           # Base metrics
           base: header, activity, community, repositories, metadata
