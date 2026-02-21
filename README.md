@@ -3,14 +3,15 @@
 
 &nbsp;
 
-<p align="center">
-Fullstack dev. Front to back, pixel to packet — all of it.<br>
-<blockquote>
-  <span style="font-size:2em; font-family:monospace;">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Fullstack+dev.+Front+to+back%2C+pixel+to+packet+-+all+of+it." alt="Typing SVG" />
+
+  <br />
+
+  <p style="font-family: monospace; font-size: 1.2em;">
     "The street finds its own uses for things." — and I build them.
-  </span>
-</blockquote>
-</p>
+  </p>
+</div>
 
 &nbsp;&nbsp;
 
