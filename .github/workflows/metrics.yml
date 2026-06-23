@@ -18,12 +18,15 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           # Repositories fetching: échantillon large + forks inclus pour que
-          # Stargazers / Forkers / Watchers / Releases / Packages ne tombent plus à 0
-          repositories: 200
-          repositories_batch: 100
+          # Stargazers / Forkers / Watchers / Releases / Packages ne tombent plus à 0.
+          # batch réduit pour fiabiliser la query GraphQL paginée (un batch trop
+          # gros la fait timeout -> data.user.repositories.nodes vide -> compteurs à 0)
+          repositories: 250
+          repositories_batch: 20
           repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: yes
           repositories_skipped: ""
+          debug: yes
           # Popular plugins
           plugin_isocalendar: yes
           plugin_languages: yes
