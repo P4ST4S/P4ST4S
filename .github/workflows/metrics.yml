@@ -26,7 +26,6 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: yes
           repositories_skipped: ""
-          debug: yes
           # Popular plugins
           plugin_isocalendar: yes
           plugin_languages: yes
