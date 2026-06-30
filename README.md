@@ -1,4 +1,8 @@
-<img width="1500" height="500" alt="banner-pastas" src="https://github.com/user-attachments/assets/0b876469-cae5-48a2-b958-2db196defc2f" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner_dark_mode.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner_light_mode.png" />
+  <img width="1500" height="500" alt="banner-pastas" src="./assets/banner_light_mode.png" />
+</picture>
 
 
 &nbsp;
