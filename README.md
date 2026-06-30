@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner_dark_mode.png" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner_light_mode.png" />
-  <img width="1500" height="500" alt="banner-pastas" src="./assets/banner_light_mode.png" />
+  <img width="100%" alt="banner-pastas" src="./assets/banner_light_mode.png" />
 </picture>
 
 
