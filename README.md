@@ -1,50 +1,44 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Antoine Rospars — fullstack · no sleep · no signal" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header.svg" width="100%" alt="Antoine Rospars — P4ST4S · fullstack · no sleep · no signal">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=3800&pause=1800&color=8F8A82&center=true&vCenter=true&width=760&lines=fullstack+%C2%B7+no+sleep+%C2%B7+no+signal;the+radio+crackles+when+prod+is+near;came+back+to+an+old+repo+because+a+commit+message+called+my+name;there+was+a+bug+here.+it%27s+gone+now.+I+think." alt="fullstack · no sleep · no signal" />
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=19&duration=3800&pause=1800&color=8F8A82&center=true&vCenter=true&width=760&lines=in+my+restless+dreams%2C+I+see+that+stack+trace.;the+radio+crackles+when+prod+is+near;came+back+to+an+old+repo+because+a+commit+message+called+my+name;there+was+a+bug+here.+it%27s+gone+now.+I+think." alt="in my restless dreams, I see that stack trace." />
 
 <img src="./assets/static.svg" width="100%" alt="" />
+
+<img src="./assets/memo.svg" width="780" alt="A typed note: My name is Antoine, most people call me Pastas. Full stack engineer at Datakeen: identity checks, passports read over NFC. Flutter NFC SDK, Kotlin, Swift, NestJS, React, Go. MSc at EPITECH, class of 2027. At night: MCP tooling and models on my own GPU." />
+
+<img src="./assets/static.svg" width="100%" alt="" />
+
+<img src="./assets/inventory.svg" width="100%" alt="Items: Flutter, Dart, Kotlin, Swift, TypeScript, NestJS, React, Vite, Go, Python, PostgreSQL, Docker" />
 
 <br/>
 
-<img src="./assets/memo.svg" width="760" alt="A typed note: Antoine, full stack engineer at Datakeen in Paris. Flutter NFC SDK, NestJS, React, Go. MSc EPITECH 2027." />
+<img src="./assets/map.svg" width="100%" alt="Map of rooms still unlocked: 1 AutoScanlate-AI, 2 mcp-audit, 3 go-load-balancer, 4 next-wordle-bot" />
 
-<br/><br/>
+<a href="https://github.com/P4ST4S/AutoScanlate-AI"><img src="./assets/room-1.svg" width="49%" alt="AutoScanlate-AI: local, GPU-only manga translation pipeline" /></a>
+<a href="https://github.com/P4ST4S/mcp-audit"><img src="./assets/room-2.svg" width="49%" alt="mcp-audit: proxy that signs and audits every MCP tool call" /></a>
 
-<img src="./assets/static.svg" width="100%" alt="" />
-
-### <samp>tools found along the way</samp>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,ts,nestjs,react,vite,go,python,postgres,docker&theme=dark&perline=12" alt="stack" />
+<a href="https://github.com/P4ST4S/go-load-balancer"><img src="./assets/room-3.svg" width="49%" alt="go-load-balancer: least-connections load balancer in Go" /></a>
+<a href="https://github.com/P4ST4S/next-wordle-bot"><img src="./assets/room-4.svg" width="49%" alt="next-wordle-bot: solves Wordle with information theory" /></a>
 
 <img src="./assets/static.svg" width="100%" alt="" />
 
-### <samp>rooms still unlocked</samp>
+<img src="./assets/radio.svg" width="100%" alt="Radio: signal strength" />
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=P4ST4S&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=9a948a&icon_color=8f2418&ring_color=8f2418&title_color=8f2418&disable_animations=true" alt="GitHub stats" />
 
-|                                                                    |                                                                                                            |
-| :----------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-| [**AutoScanlate-AI**](https://github.com/P4ST4S/AutoScanlate-AI)   | <samp>Local, GPU-only manga translation pipeline. YOLO, MangaOCR, Qwen. Nothing leaves the machine.</samp> |
-| [**mcp-audit**](https://github.com/P4ST4S/mcp-audit)               | <samp>Go proxy that signs and audits every MCP tool call, between any client and any server.</samp>        |
-| [**go-load-balancer**](https://github.com/P4ST4S/go-load-balancer) | <samp>Least-connections load balancer in Go. Knows which backend is drowning.</samp>                       |
-| [**next-wordle-bot**](https://github.com/P4ST4S/next-wordle-bot)   | <samp>Solves Wordle with information theory instead of hope.</samp>                                        |
+<img src="./assets/save.svg" width="100%" alt="Save: a red square on the wall" />
 
-<div align="center">
+<a href="https://antoinerospars.dev"><img src="./assets/link-site.svg" width="46%" alt="antoinerospars.dev" /></a>
+<a href="https://www.linkedin.com/in/antoinerospars/"><img src="./assets/link-linkedin.svg" width="46%" alt="LinkedIn: in/antoinerospars" /></a>
 
-<img src="./assets/static.svg" width="100%" alt="" />
-
-### <samp>signal strength</samp>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=P4ST4S&show_icons=true&hide_border=true&bg_color=00000000&title_color=8a3a1c&text_color=9a948a&icon_color=6b2a14&ring_color=7a3b1e&hide_title=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4ST4S&layout=compact&hide_border=true&bg_color=00000000&title_color=8a3a1c&text_color=9a948a&hide_title=true&langs_count=6" alt="languages" />
-
-<br/>
-
-<a href="https://antoinerospars.dev"><img src="https://img.shields.io/badge/antoinerospars.dev-2a2826?style=flat-square&logo=firefoxbrowser&logoColor=a39d93&labelColor=1d1b19" alt="site" /></a>
-<a href="https://www.linkedin.com/in/antoinerospars/"><img src="https://img.shields.io/badge/in%2Fantoinerospars-2a2826?style=flat-square&logo=linkedin&logoColor=a39d93&labelColor=1d1b19" alt="linkedin" /></a>
-
-<img src="./assets/footer.svg" width="100%" alt="the fog clears when the build passes" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img src="./assets/footer.svg" width="100%" alt="the fog clears when the build passes">
+</picture>
 
 </div>
