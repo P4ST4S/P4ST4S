@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Antoine Rospars — fullstack · no sleep · all gas" />
+<img src="./assets/header.svg" width="100%" alt="Antoine Rospars — fullstack · no sleep · no signal" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=3800&pause=1800&color=8F8A82&center=true&vCenter=true&width=640&lines=surviving+the+tech+corpo+world+one+commit+at+a+time;the+radio+crackles+when+prod+is+near;there+was+a+bug+here.+it's+gone+now.+I+think." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=3800&pause=1800&color=8F8A82&center=true&vCenter=true&width=760&lines=fullstack+%C2%B7+no+sleep+%C2%B7+no+signal;the+radio+crackles+when+prod+is+near;came+back+to+an+old+repo+because+a+commit+message+called+my+name;there+was+a+bug+here.+it%27s+gone+now.+I+think." alt="fullstack · no sleep · no signal" />
 
 <img src="./assets/static.svg" width="100%" alt="" />
 
@@ -24,12 +24,12 @@
 
 </div>
 
-| | |
-|:--|:--|
-| [**AutoScanlate-AI**](https://github.com/P4ST4S/AutoScanlate-AI) | <samp>Local, GPU-only manga translation pipeline. YOLO, MangaOCR, Qwen. Nothing leaves the machine.</samp> |
-| [**mcp-audit**](https://github.com/P4ST4S/mcp-audit) | <samp>Go proxy that signs and audits every MCP tool call, between any client and any server.</samp> |
-| [**go-load-balancer**](https://github.com/P4ST4S/go-load-balancer) | <samp>Least-connections load balancer in Go. Knows which backend is drowning.</samp> |
-| [**next-wordle-bot**](https://github.com/P4ST4S/next-wordle-bot) | <samp>Solves Wordle with information theory instead of hope.</samp> |
+|                                                                    |                                                                                                            |
+| :----------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| [**AutoScanlate-AI**](https://github.com/P4ST4S/AutoScanlate-AI)   | <samp>Local, GPU-only manga translation pipeline. YOLO, MangaOCR, Qwen. Nothing leaves the machine.</samp> |
+| [**mcp-audit**](https://github.com/P4ST4S/mcp-audit)               | <samp>Go proxy that signs and audits every MCP tool call, between any client and any server.</samp>        |
+| [**go-load-balancer**](https://github.com/P4ST4S/go-load-balancer) | <samp>Least-connections load balancer in Go. Knows which backend is drowning.</samp>                       |
+| [**next-wordle-bot**](https://github.com/P4ST4S/next-wordle-bot)   | <samp>Solves Wordle with information theory instead of hope.</samp>                                        |
 
 <div align="center">
 
